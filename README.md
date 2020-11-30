@@ -1,2 +1,2 @@
-# Web-Developement
+# Web-Development
 Web development course
